@@ -6,8 +6,7 @@ Analyzing the data to understand US border crossing activities.
 
 US port with highest and lowest border crossing  
 Which state is most visited by border crossers ?  
-Year wise crossing activity , Is it increasing or decreasing ?  
-Are most crossers coming from whether Mexico or Canada ?  
+Year wise border crossing activity , Is it increasing or decreasing ?  
 And many more ,  
 Check out above ipnynb file for more. 
 
